@@ -1,4 +1,4 @@
-# Chest-Xray-multilabel-classifier
+# Chest-Xray classifier for detecting low ejection fraction and valvular heart disease
 
 This project aimed to detect low ejection fraction (EF) and valvular heart disease from chest Xrays using a multi-head classifier.
 
