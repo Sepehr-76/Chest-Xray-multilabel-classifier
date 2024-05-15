@@ -17,4 +17,9 @@ All radiographs were extracted as DICOM files. Numpy arrays were extracted from 
 
 ![download (3)](https://github.com/Sepehr-76/Chest-Xray-multilabel-classifier/assets/136221815/374dba54-ea83-4b0a-aaaa-b8b1035cee90)![download (4)](https://github.com/Sepehr-76/Chest-Xray-multilabel-classifier/assets/136221815/97271c45-cb6b-42a2-a215-04b5de555697)![download (5)](https://github.com/Sepehr-76/Chest-Xray-multilabel-classifier/assets/136221815/c5ae36c9-4f71-470a-b71c-b318f88fd039)![download (6)](https://github.com/Sepehr-76/Chest-Xray-multilabel-classifier/assets/136221815/b5c5e317-a60b-4142-b06a-448331bf9bb3)
 
+## The histogram of raveled data for a single radiograph
+
+![download (1)](https://github.com/Sepehr-76/Chest-Xray-multilabel-classifier/assets/136221815/43988217-f63e-4316-b4f4-6e3ebfa02d9b)
+
+
 
