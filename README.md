@@ -24,6 +24,7 @@ All radiographs were extracted as DICOM files. Numpy arrays were extracted from 
 
 ## Results
 
+![image](https://github.com/Sepehr-76/Chest-Xray-multilabel-classifier/assets/136221815/4b9922df-b7d6-4d4a-bee5-c60d39c0831d)
 
 ## Conclusion
 
